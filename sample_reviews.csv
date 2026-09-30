@@ -1,0 +1,51 @@
+review_id,text,rating
+S001,Filters are hard to find,3
+S002,Delivery fee keeps going up,2
+S003,Loading spinner for 20 seconds every time,1
+S004,Please add order tracking on a map,4
+S005,Very slow to load my order history,2
+S006,Not good,2
+S007,Laggy scrolling on the home screen,3
+S008,Search is super slow on my phone,2
+S009,Missing a way to schedule deliveries,3
+S010,Should have support for UPI autopay,3
+S011,"Awesome experience, fast delivery",5
+S012,Why is there a new fee at checkout,2
+S013,Need a wishlist feature,4
+S014,Glitch shows wrong items in my basket,2
+S015,App crashes whenever I open the cart,1
+S016,"Great app, highly recommend",4
+S017,Navigation is cluttered and hard to use,3
+S018,App drains my battery in an hour,2
+S019,"Too many buttons on the home screen, cluttered interface",3
+S020,Best app for groceries,5
+S021,ok,3
+S022,"Settings are hidden, cannot navigate to change my address",2
+S023,Fine I guess,3
+S024,The app won't open since the last update,1
+S025,Paid plan not worth the price,2
+S026,"Confusing layout, I cannot find where to reorder",2
+S027,Add a filter for price range please,3
+S028,Payment fails at checkout and I still get charged... broken,1
+S029,Refund never came back to my account,1
+S030,Map takes too long to load,3
+S031,I was charged twice and need a refund,1
+S032,Delay of several seconds after tapping anything,3
+S033,"Excellent service, very happy",5
+S034,Please add dark mode,4
+S035,Would love an option to save multiple addresses,4
+S036,Notifications freeze the app after update,2
+S037,"Keeps logging me out, login is not working",1
+S038,Takes forever to load the product page,2
+S039,Wish there was an option to reorder in one tap,4
+S040,"Amazing, everything I need",5
+S041,Prices are higher than in the store,2
+S042,Checkout flow is confusing with too many steps,2
+S043,Search returns an error for any keyword,1
+S044,Subscription is too expensive for what you get,2
+S045,Error message every time I apply a coupon,2
+S046,Order status is stuck on processing forever,2
+S047,"Love this app, works great",5
+S048,Interface looks messy after redesign,3
+S049,"Cannot upload prescription, upload fails",1
+S050,Hard to find the help section,3
